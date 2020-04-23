@@ -6,11 +6,11 @@ Trigger Identify request from MDNS scan.
 
 ### Problem
 
-Currently, I try to trigger Identify request from a MDNS scan with a hub. But no Identify request is send. Although, when i worked in my previous office with many hubs and devices, MDNS scan successfully triggered Identify request. Today, I just work with one hub and no discovarable devices from MDSN scan, here, no Identify request is send anymore. 
+Currently, I try to trigger Identify request from a MDNS scan with a hub. But no Identify request is sent. Although, when i worked in my previous office with many hubs and devices, MDNS scan successfully triggered Identify request. Today, I just work with one hub and no discoverable devices from MDNS scan, here, no Identify request is sent anymore.
 
 ---
 
-### Environnement when it works
+### Environment  when it works
 
 | Packages               | Version       |
 | --------------------- |:-------------:|
@@ -21,11 +21,11 @@ Currently, I try to trigger Identify request from a MDNS scan with a hub. But no
 | --------------------- | ------- |
 | google nest mini | 2nd Generation |
 | Hager hubs | devices that respond to MDNS scan |
-| Controllable devices | Present in room i worked |
+| Controllable devices | Present in room where I worked |
 
 ---
 
-### Current environement, it doesn't work
+### Current environment , it doesn't work
 
 | Packages               | Version       |
 | --------------------- |:-------------:|
@@ -36,7 +36,7 @@ Currently, I try to trigger Identify request from a MDNS scan with a hub. But no
 | --------------------- | ------- |
 | google nest mini | 2nd Generation |
 | Virtual hub | proposed by google sample here: https://github.com/actions-on-google/smart-home-local |
-| Controllable devices | not present in room i work |
+| Controllable devices | not present in room where I work |
 
 |   Google home nest mini           |   |
 | --------------------- | :------------: |
