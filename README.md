@@ -45,7 +45,7 @@ Currently, I try to trigger Identify request from a MDNS scan with a hub. But no
 | Language                 |     Français      |
 | Country Code             |    FR     |
 
-## MDNS Configuration
+#### MDNS Configuration
 
 Configuration in Google Action console: `Develop -> Actions -> Add device scan configuration`
 
@@ -55,7 +55,7 @@ MDNS query actually triggered :
 
 ![error](/images/mdnsQuery.PNG)
 
-## Code actually load
+#### Code actually load
 
 Configuration in Google Action console: `Develop -> Actions -> Enter your testing Url`
 
@@ -63,7 +63,7 @@ Configuration in Google Action console: `Develop -> Actions -> Enter your testin
 
 ![error](/images/ngrock.PNG)
 
-## Virtual device in my google home app
+#### Virtual device in my google home app
 
 <img src="./images/virtualDevices.jpg" height="400px"> 
 
